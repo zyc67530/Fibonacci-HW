@@ -43,7 +43,7 @@ plt.legend()
 plt.show()
 
 # find the maximum value of n such that computing F(n+1) recursively causes computer to crash
-n = 1000
+n = 90
 while True:
     try:
         recursive_fibonacci(n)
