@@ -9,5 +9,5 @@ F40(dynamic_fibonacci) takes 1.736799999996208e-05 seconds. (recursive_fibonacci
 F50(dynamic_fibonacci) takes 4.852500000396276e-05 seconds. (recursive_fibonacci) takes 3550.016629828 seconds.
 ![](下載.png)
 
-Q2: 64 位元整數表示最大值的=F(93)
-    n=93
+Q2. n=50
+    DP is ok with n = 50
